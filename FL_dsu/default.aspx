@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
         Det här är vår första webbsida. Ändring som bara finns i min develop! 
-        <asp:Label ID="Label1" runat="server" Text="Label">Hej!</asp:Label>
+        <asp:Label ID="Label1" runat="server" Text="Label">Hej! Det här är en längre label</asp:Label>
     </div>
     </form>
 </body>
